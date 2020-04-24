@@ -1,0 +1,19 @@
+python 3
+selenium
+ocr :
+    pytesseract(pip)
+    tesseract.exe 
+PIL
+beatifulsoup(bs4)
+import json
+
+"[import pytesseract
+import requests, time
+from selenium import webdriver
+from PIL import Image
+from bs4 import BeautifulSoup
+import json
+]
+"
+
+
