@@ -1,0 +1,17 @@
+python 3
+ocr :
+    pytesseract(pip)
+    tesseract.exe 
+
+
+"[from lxml import etree
+from bs4 import BeautifulSoup
+import html5lib
+import time
+from PIL import Image
+import json
+import requests
+]
+"
+
+
